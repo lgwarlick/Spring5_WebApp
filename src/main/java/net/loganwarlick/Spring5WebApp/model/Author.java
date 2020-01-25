@@ -1,4 +1,4 @@
-package net.loganwarlick.Spring5WebApp;
+package net.loganwarlick.Spring5WebApp.model;
 
 import javax.persistence.*;
 import java.util.HashSet;
